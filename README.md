@@ -6,7 +6,11 @@ The app contains three basic pages:
 * Finish page which summarize your score.
 
 # To install npm packages
+```
 npm install
+```
 
 # To start the application
-npm run start:dev
+```
+npm run start:dev 
+```
